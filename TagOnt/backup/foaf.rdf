@@ -1,0 +1,107 @@
+<rdf:RDF
+    xmlns:tag="http://bubb.ghb.fh-furtwangen.de/TagOnt/tagont.owl#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:daml="http://www.daml.org/2001/03/daml+oil#"
+  xml:base="http://bubb.ghb.fh-furtwangen.de/TagOnt/foaf.rdf">
+  <owl:Ontology rdf:about="">
+    <owl:imports rdf:resource="tagont.owl#"/>
+  </owl:Ontology>
+  <foaf:Person rdf:about="http://del.icio.us/44sunsets">
+    <foaf:homepage>http://del.icio.us/44sunsets</foaf:homepage>
+    <foaf:firstName>44sunsets</foaf:firstName>
+    <foaf:name>44sunsets</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://del.icio.us/varanusz">
+    <foaf:homepage>http://del.icio.us/varanusz</foaf:homepage>
+    <foaf:firstName>varanusz</foaf:firstName>
+    <foaf:name>varanusz</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://del.icio.us/thefalcon">
+    <foaf:homepage>http://del.icio.us/thefalcon</foaf:homepage>
+    <foaf:firstName>thefalcon</foaf:firstName>
+    <foaf:name>thefalcon</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://del.icio.us/csonic">
+    <foaf:name>csonic</foaf:name>
+    <foaf:firstName>csonic</foaf:firstName>
+    <foaf:homepage>http://del.icio.us/csonic</foaf:homepage>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://del.icio.us/panh29">
+    <foaf:homepage>http://del.icio.us/panh29</foaf:homepage>
+    <foaf:firstName>panh29</foaf:firstName>
+    <foaf:name>panh29</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://del.icio.us/tamquam">
+    <foaf:name>tamquam</foaf:name>
+    <foaf:firstName>tamquam</foaf:firstName>
+    <foaf:homepage>http://del.icio.us/tamquam</foaf:homepage>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://del.icio.us/andreia">
+    <foaf:homepage>http://del.icio.us/andreia</foaf:homepage>
+    <foaf:firstName>andreia</foaf:firstName>
+    <foaf:name>andreia</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://del.icio.us/xioster">
+    <foaf:name>xioster</foaf:name>
+    <foaf:firstName>xioster</foaf:firstName>
+    <foaf:homepage>http://del.icio.us/xioster</foaf:homepage>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://del.icio.us/vanderzanden">
+    <foaf:name>vanderzanden</foaf:name>
+    <foaf:firstName>vanderzanden</foaf:firstName>
+    <foaf:homepage>http://del.icio.us/vanderzanden</foaf:homepage>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://del.icio.us/mindful_geek">
+    <foaf:name>mindful_geek</foaf:name>
+    <foaf:firstName>mindful_geek</foaf:firstName>
+    <foaf:homepage>http://del.icio.us/mindful_geek</foaf:homepage>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://del.icio.us/seppevs">
+    <foaf:name>seppevs</foaf:name>
+    <foaf:firstName>seppevs</foaf:firstName>
+    <foaf:homepage>http://del.icio.us/seppevs</foaf:homepage>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://del.icio.us/simon_larkin">
+    <foaf:homepage>http://del.icio.us/simon_larkin</foaf:homepage>
+    <foaf:firstName>simon_larkin</foaf:firstName>
+    <foaf:name>simon_larkin</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://del.icio.us/aminch">
+    <foaf:homepage>http://del.icio.us/aminch</foaf:homepage>
+    <foaf:firstName>aminch</foaf:firstName>
+    <foaf:name>aminch</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://del.icio.us/soundguy">
+    <foaf:name>soundguy</foaf:name>
+    <foaf:firstName>soundguy</foaf:firstName>
+    <foaf:homepage>http://del.icio.us/soundguy</foaf:homepage>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://del.icio.us/corymyers">
+    <foaf:homepage>http://del.icio.us/corymyers</foaf:homepage>
+    <foaf:firstName>corymyers</foaf:firstName>
+    <foaf:name>corymyers</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://del.icio.us/baokd">
+    <foaf:homepage>http://del.icio.us/baokd</foaf:homepage>
+    <foaf:firstName>baokd</foaf:firstName>
+    <foaf:name>baokd</foaf:name>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://del.icio.us/drastikat">
+    <foaf:name>drastikat</foaf:name>
+    <foaf:firstName>drastikat</foaf:firstName>
+    <foaf:homepage>http://del.icio.us/drastikat</foaf:homepage>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://del.icio.us/cjc">
+    <foaf:name>cjc</foaf:name>
+    <foaf:firstName>cjc</foaf:firstName>
+    <foaf:homepage>http://del.icio.us/cjc</foaf:homepage>
+  </foaf:Person>
+  <foaf:Person rdf:about="http://del.icio.us/mahei">
+    <foaf:homepage>http://del.icio.us/mahei</foaf:homepage>
+    <foaf:firstName>mahei</foaf:firstName>
+    <foaf:name>mahei</foaf:name>
+  </foaf:Person>
+</rdf:RDF>
